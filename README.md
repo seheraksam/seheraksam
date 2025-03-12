@@ -1,29 +1,45 @@
-<h1 align="center">Hey! 👋 Ben Seher</h1>  
-<h3 align="center">Backend & Full-Stack Developer | Yazılım Mühendisi</h3>
+<h1 align="center">Hi there, I'm Seher! 👋</h1>  
+<h3 align="center">Passionate Software Engineer | Problem Solver | Lifelong Learner</h3>  
 
-- 🔭 Şu an üzerinde çalışıyorum: **JWT tabanlı kimlik doğrulama sistemleri**  
-- 🌱 Öğreniyorum: **Golang, MongoDB, Kimlik Doğrulama (JWT & OAuth), Web Güvenliği**  
-- 💬 Bana sorabilirsin: **Backend geliştirme, kimlik doğrulama ve API güvenliği hakkında**  
-- 📫 Bana ulaş: **[05seher@gmail.com](mailto:05seher@gmail.com)**  
-
----
-
-### 🛠️ Kullandığım Teknolojiler  
-<img src="https://skillicons.dev/icons?i=go,mongodb,docker,git,linux,flutter,mssql,react-native" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seheraksam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />  
+  <img src="https://img.shields.io/github/followers/seheraksam?style=social" alt="GitHub followers" />  
+</p>  
 
 ---
 
-### 📊 GitHub İstatistiklerim  
-![Seher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seheraksam&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheraksam&layout=compact&theme=radical)  
-
----
-
-### 📫 Beni Takip Et!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seheraksam/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seheraksam) 
+### 🚀 About Me  
+- 🔥 Passionate about **software development, problem-solving, and continuous learning.**  
+- 🎯 Focused on **building scalable applications and improving system design.**  
+- 💡 Always exploring **new technologies and best practices in software engineering.**  
 
 ---
 
-**"Kod yazarken sadece yazmıyorum, aynı zamanda öğreniyorum ve geliştiriyorum." 🚀**  
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,flutter,react,js,ts,mongodb,postgres,docker,kubernetes,aws,linux,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seheraksam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seheraksam&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/seheraksam/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="mailto:seheraksam@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>  
+</p>
+
+---
+
+✨ **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  

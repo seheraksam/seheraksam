@@ -32,10 +32,10 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/seheraksam/" target="_blank">
+  <a href="(https://www.linkedin.com/in/seher-ak%C5%9Fam-2a6a42201/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>  
-  <a href="mailto:seheraksam@example.com">
+  <a href="mailto:05seher@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>  
 </p>

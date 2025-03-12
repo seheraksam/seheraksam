@@ -4,12 +4,12 @@
 - 🔭 Şu an üzerinde çalışıyorum: **JWT tabanlı kimlik doğrulama sistemleri**  
 - 🌱 Öğreniyorum: **Golang, MongoDB, Kimlik Doğrulama (JWT & OAuth), Web Güvenliği**  
 - 💬 Bana sorabilirsin: **Backend geliştirme, kimlik doğrulama ve API güvenliği hakkında**  
-- 📫 Bana ulaş: **[seheraksam@example.com](mailto:seheraksam@example.com)**  
+- 📫 Bana ulaş: **[05seher@gmail.com](mailto:05seher@gmail.com)**  
 
 ---
 
 ### 🛠️ Kullandığım Teknolojiler  
-<img src="https://skillicons.dev/icons?i=go,mongodb,docker,git,aws,linux" />
+<img src="https://skillicons.dev/icons?i=go,mongodb,docker,git,linux,flutter,mssql,react-native" />
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 📫 Beni Takip Et!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seheraksam/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seheraksam)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seheraksam) 
 
 ---
 

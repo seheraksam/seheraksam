@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seheraksam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seheraksam&theme=tokyonight" alt="GitHub Streak" />
-</p>  
-
----
-
 ### 📫 Connect with Me  
 <p align="center">
   <a href="(https://www.linkedin.com/in/seher-ak%C5%9Fam-2a6a42201/)" target="_blank">

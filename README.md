@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,flutter,react,js,ts,mongodb,postgres,docker,kubernetes,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=go,flutter,.NET,python,react,js,ts,mongodb,postgres,docker,kubernetes,aws,linux,git" />
 </p>
 
 ---
